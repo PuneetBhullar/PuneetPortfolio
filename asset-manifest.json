@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/PuneetPortfolio/static/css/main.b133e66a.css",
-    "main.js": "/PuneetPortfolio/static/js/main.2b615ab3.js",
-    "static/js/787.0a9beb4e.chunk.js": "/PuneetPortfolio/static/js/787.0a9beb4e.chunk.js",
-    "static/media/logo.svg": "/PuneetPortfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/PuneetPortfolio/index.html",
-    "main.b133e66a.css.map": "/PuneetPortfolio/static/css/main.b133e66a.css.map",
-    "main.2b615ab3.js.map": "/PuneetPortfolio/static/js/main.2b615ab3.js.map",
-    "787.0a9beb4e.chunk.js.map": "/PuneetPortfolio/static/js/787.0a9beb4e.chunk.js.map"
+    "main.css": "/puneetportfolio/static/css/main.b133e66a.css",
+    "main.js": "/puneetportfolio/static/js/main.0bc347ef.js",
+    "static/js/787.0a9beb4e.chunk.js": "/puneetportfolio/static/js/787.0a9beb4e.chunk.js",
+    "index.html": "/puneetportfolio/index.html",
+    "main.b133e66a.css.map": "/puneetportfolio/static/css/main.b133e66a.css.map",
+    "main.0bc347ef.js.map": "/puneetportfolio/static/js/main.0bc347ef.js.map",
+    "787.0a9beb4e.chunk.js.map": "/puneetportfolio/static/js/787.0a9beb4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b133e66a.css",
-    "static/js/main.2b615ab3.js"
+    "static/js/main.0bc347ef.js"
   ]
 }
