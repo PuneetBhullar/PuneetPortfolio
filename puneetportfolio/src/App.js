@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import React from 'react';
 import './App.css';
 
+
+
 export default function App() {
   const [openTab, setOpenTab] = React.useState(1);
   return (
@@ -95,22 +97,24 @@ export default function App() {
                   </div>
                 </div>
                 <div className="flex flex-wrap justify-center mt-4">
-                    <a className='text-white font-semibold text-3xl'>Hello there! My name is Puneet Bhullar.</a>
+                    <a className='text-white font-semibold text-3xl'>Hi, my name is Puneet Bhullar.</a>
+                </div>
+                <div className="flex flex-wrap justify-center mt-6 ">
+                    <a className='text-white text-center text-lg max-w-5xl'>I am a University of Waterloo Computer Engineering student passionate about leveraging software to improve society. 
+                    I have a keen interest in disruptive technologies, notably blockchain and its power to revolutionize industries. 
+                    My interest in this subject has led me to write articles about disruptive technologies. I’m currently learning new software languages and frameworks. Over the years of pursuing curiosity, I have developed skills in C++, C, Java, Python, Javascript, React and the Angular framework. 
+                    If you have any questions or would like to learn more about me, please reach out.</a>
                 </div>
                 <div className="flex flex-wrap justify-center mt-4">
-                    <a className='text-white text-lg'>Hello there! My name is Puneet Bhullar.</a>
+                <a href="www.linkedin.com/in/puneetbhullar">
+                  <img src="icons8-linkedin-48.png"/>
+                </a>
                 </div>
                 </div>
                 <div className={openTab === 2 ? "block" : "hidden"} id="link2">
-                  <p>
-                    Completely synergize resource taxing relationships via
-                    premier niche markets. Professionally cultivate one-to-one
-                    customer service with robust ideas.
-                    <br />
-                    <br />
-                    Dynamically innovate resource-leveling customer service for
-                    state of the art customer service.
-                  </p>
+                <div className="flex flex-wrap justify-center mt-4">
+                    <img src="resume.png"></img>
+                </div>
                 </div>
                 <div className={openTab === 3 ? "block" : "hidden"} id="link3">
                   <p>
