@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/puneetbhullar.github.io/puneetportfolio/static/css/main.b133e66a.css",
-    "main.js": "/puneetbhullar.github.io/puneetportfolio/static/js/main.755acd3b.js",
-    "static/js/787.0a9beb4e.chunk.js": "/puneetbhullar.github.io/puneetportfolio/static/js/787.0a9beb4e.chunk.js",
-    "index.html": "/puneetbhullar.github.io/puneetportfolio/index.html",
-    "main.b133e66a.css.map": "/puneetbhullar.github.io/puneetportfolio/static/css/main.b133e66a.css.map",
-    "main.755acd3b.js.map": "/puneetbhullar.github.io/puneetportfolio/static/js/main.755acd3b.js.map",
-    "787.0a9beb4e.chunk.js.map": "/puneetbhullar.github.io/puneetportfolio/static/js/787.0a9beb4e.chunk.js.map"
+    "main.css": "/puneetportfolio/static/css/main.b133e66a.css",
+    "main.js": "/puneetportfolio/static/js/main.0bc347ef.js",
+    "static/js/787.0a9beb4e.chunk.js": "/puneetportfolio/static/js/787.0a9beb4e.chunk.js",
+    "index.html": "/puneetportfolio/index.html",
+    "main.b133e66a.css.map": "/puneetportfolio/static/css/main.b133e66a.css.map",
+    "main.0bc347ef.js.map": "/puneetportfolio/static/js/main.0bc347ef.js.map",
+    "787.0a9beb4e.chunk.js.map": "/puneetportfolio/static/js/787.0a9beb4e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b133e66a.css",
-    "static/js/main.755acd3b.js"
+    "static/js/main.0bc347ef.js"
   ]
 }
